@@ -22,13 +22,13 @@ inclusos no livro e no booksite.
 
 ### [Dia 2](https://github.com/jpvasquesc/100-days-of-code/tree/master/dias/r1-d2): 12 de Janeiro, 2021 
 
-**Feitos**: Mais um [assignment de Python] (https://github.com/jpvasquesc/100-days-of-code/blob/master/dias/r1-d2/tracks.py) trabalhando com SQLite. Entendi muita coisa? Nao, mas nem to muito interessado nessa parte pra ser sincero.
+**Feitos**: Mais um [assignment de Python] (https://github.com/jpvasquesc/100-days-of-code/blob/master/dias/r1-d2/tracks.py) trabalhando com SQLite. 
+
+**Comentarios**:Entendi muita coisa? Nao, mas nem to muito interessado nessa parte pra ser sincero.
 Agora so falta 1.
+Nao pude trabalhar nos exercicios de Java pq tava ocupado com o ED de virologia :(
+Amanha provavelmente tbm vai ser um dia fraco, vou ficar lendo o artigo.
 
-
-
-
-**Comentarios**:
 
 ### Dia 3: 13 de Janeiro, 2021 
 
