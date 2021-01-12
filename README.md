@@ -10,7 +10,7 @@ Diario do desafio #100DaysOfCode. Comecei em [11 de Janeiro, Segunda-Feira, 2021
 
 Quase no final do curso de Python, faltam 3 assignments. Essa semana termino facil.
 
-Comecei a programar em Java. Resumo: uma bosta. Python eh muito mais facil e pratico, mas a vida foi feita pra sofrer nao eh msm.
+Comecei a programar em Java. Resumo: horrivel. Python eh muito mais facil e pratico, mas a vida foi feita pra sofrer nao eh msm.
 
 Escrevi provavelmente a maior monstrosidade matematica em forma de codigo, meus olhos sangram [(GreatCircle.java)](https://github.com/jpvasquesc/100-days-of-code/blob/master/dias/r1-d1/GreatCircle.java). Pelo menos os exercicios que sao passados sao bem divertidinhos de se fazer.
 
