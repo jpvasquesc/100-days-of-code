@@ -7,9 +7,7 @@ Diario do desafio #100DaysOfCode. Comecei em [11 de Janeiro, Segunda-Feira, 2021
 
 **Feitos**: 2 assignments do curso de Python e todos os exercicios da primeira semana de Java/CS1. 
 
-**Comentarios**: 
-
-Quase no final do curso de Python, faltam 3 assignments. Essa semana termino facil.
+**Comentarios**:\n Quase no final do curso de Python, faltam 3 assignments. Essa semana termino facil.
 
 Comecei a programar em Java. Resumo: uma bosta. Python eh muito mais facil e pratico, mas a vida foi feita pra sofrer nao eh msm.
 
