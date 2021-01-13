@@ -30,9 +30,9 @@ Nao pude trabalhar nos exercicios de Java pq tava ocupado com o ED de virologia 
 Amanha provavelmente tbm vai ser um dia fraco, vou ficar lendo o artigo.
 
 
-### Dia 3: 13 de Janeiro, 2021 
+### [Dia 3](https://github.com/jpvasquesc/100-days-of-code/tree/master/dias/r1-d3): 13 de Janeiro, 2021 
 
-**Feitos**:
+**Feitos**: Terminei o Py4E, faltam apenas as ultimas aulas de Data vizualization mas que n tem nenhum assignment.
 
 **Comentarios**:
 
