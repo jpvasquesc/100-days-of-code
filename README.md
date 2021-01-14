@@ -36,3 +36,9 @@ Amanha provavelmente tbm vai ser um dia fraco, vou ficar lendo o artigo.
 
 **Comentarios**:
 
+### [Dia 4](https://github.com/jpvasquesc/100-days-of-code/tree/master/dias/r1-d4): 14 de Janeiro, 2021 
+
+**Feitos**: Fiz o projeto [time calculator](https://github.com/jpvasquesc/100-days-of-code/blob/master/dias/r1-d4/time_calculator.py) do FreeCodeCamp
+
+**Comentarios**:
+
