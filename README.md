@@ -43,3 +43,18 @@ Terminei e submeti o projeto do Scratch do cs50x. Fiz o Lab1 do cs50x.
 
 **Comentarios**:
 
+### [Dia 5](https://github.com/jpvasquesc/100-days-of-code/tree/master/dias/r1-d5): 15 de Janeiro, 2021 
+
+**Feitos**:Fiz diversos exercicios do Introduction to Java, capitulo 1.2 "Data types". Destaque para o [exercicio 19](https://github.com/jpvasquesc/100-days-of-code/blob/master/dias/r1-d5/E19.java) e [exercicio 20](https://github.com/jpvasquesc/100-days-of-code/blob/master/dias/r1-d5/E20.java).
+
+**Comentarios**: Os exercicios 19 e 20 requerem a geracao de um numero inteiro aleatorio. Para isso utilizei a funcao "Math.random()", que gera um numero entre 0 e 1, MAS NUNCA 1. Importante para poder utilizar o metodo. Depois tem que saber formatar a equacao de forma que receba os limites certo. O limite maior(x) vc multiplica pelo valor aleatorio, ou seja, pode ser um valor de 0 ate x, mas nunca x. E soma com o limite menor(y), ou seja, se o valor randomico for 0 e (0 * x) = 0, o 0 sera somado ao y. Logo o menor valor possivel eh y. Brabo.
+
+### [Dia 6](https://github.com/jpvasquesc/100-days-of-code/tree/master/dias/r1-d6): 16 de Janeiro, 2021 
+
+**Feitos**:
+**Comentarios**:
+
+### [Dia 7](https://github.com/jpvasquesc/100-days-of-code/tree/master/dias/r1-d7): 17 de Janeiro, 2021 
+
+**Feitos**:
+**Comentarios**:
