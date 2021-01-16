@@ -51,8 +51,10 @@ Terminei e submeti o projeto do Scratch do cs50x. Fiz o Lab1 do cs50x.
 
 ### [Dia 6](https://github.com/jpvasquesc/100-days-of-code/tree/master/dias/r1-d6): 16 de Janeiro, 2021 
 
-**Feitos**:
-**Comentarios**:
+**Feitos**: Terminei os exercicios de Java capitulo 1.2.
+
+
+**Comentarios**: Semana q vem comeca o capitulo 1.3 do curso de Java.
 
 ### [Dia 7](https://github.com/jpvasquesc/100-days-of-code/tree/master/dias/r1-d7): 17 de Janeiro, 2021 
 
