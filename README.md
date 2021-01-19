@@ -58,5 +58,24 @@ Terminei e submeti o projeto do Scratch do cs50x. Fiz o Lab1 do cs50x.
 
 ### [Dia 7](https://github.com/jpvasquesc/100-days-of-code/tree/master/dias/r1-d7): 17 de Janeiro, 2021 
 
+**Feitos**: FAIL
+**Comentarios**: FAIL
+
+### [Dia 8](https://github.com/jpvasquesc/100-days-of-code/tree/master/dias/r1-d8): 18 de Janeiro, 2021 
+
+**Feitos**: Mal comecou e ja terminei a semana do curso de Java - Capitulo 1.3 (loops e condicionais). 
+
+**Comentarios**:
+
+### [Dia 9](https://github.com/jpvasquesc/100-days-of-code/tree/master/dias/r1-d9): 19 de Janeiro, 2021 
+
 **Feitos**:
 **Comentarios**:
+
+### [Dia 10](https://github.com/jpvasquesc/100-days-of-code/tree/master/dias/r1-d10): 20 de Janeiro, 2021 
+
+**Feitos**:
+**Comentarios**:
+
+
+
