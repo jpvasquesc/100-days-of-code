@@ -74,7 +74,17 @@ Terminei e submeti o projeto do Scratch do cs50x. Fiz o Lab1 do cs50x.
 
 ### [Dia 10](https://github.com/jpvasquesc/100-days-of-code/tree/master/dias/r1-d10): 21 de Janeiro, 2021 
 
-**Feitos**:
+**Feitos**: Substitution cs50x
+**Comentarios**:
+
+### [Dia 11](https://github.com/jpvasquesc/100-days-of-code/tree/master/dias/r1-d11): 22 de Janeiro, 2021 
+
+**Feitos**: Exercicio 32 introduction to programming
+**Comentarios**: Nao funcionou, nao consegue computar todos os resultados
+
+### [Dia 12](https://github.com/jpvasquesc/100-days-of-code/tree/master/dias/r1-d12): 25 de Janeiro, 2021 
+
+**Feitos**: 
 **Comentarios**:
 
 
